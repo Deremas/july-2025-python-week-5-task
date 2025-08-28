@@ -85,15 +85,15 @@ Follow these steps to clone and run the project locally:
 
 Make sure you have **Python 3.7+** installed. You can check your version with:
 
-````bash
+```bash
 python --version
 ```
 
 ### Clone the Repository
 
 ```python
-git clone https://github.com/Deremas/python-oop-assignments.git
-cd python-oop-assignments
+git clone git@github.com:Deremas/july-2025-python-week-5-task.git
+cd july-2025-python-week-5-task
 ```
 
 ### Run the Project
