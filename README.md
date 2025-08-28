@@ -86,10 +86,8 @@ Follow these steps to clone and run the project locally:
 Make sure you have **Python 3.7+** installed. You can check your version with:
 
 ````bash
-
-```python
 python --version
-````
+```
 
 ### Clone the Repository
 
